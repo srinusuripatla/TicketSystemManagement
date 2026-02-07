@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TicketSystem.WinForms</id>
+    <version>1.0.0</version>
+    <authors>TicketSystem.WinForms</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Newtonsoft.Json" version="13.0.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\srinu\Desktop\TicketSystem.API\TicketSystem.WinForms\bin\Debug\net6.0-windows\TicketSystem.WinForms.runtimeconfig.json" target="lib\net6.0-windows7.0\TicketSystem.WinForms.runtimeconfig.json" />
+    <file src="C:\Users\srinu\Desktop\TicketSystem.API\TicketSystem.WinForms\bin\Debug\net6.0-windows\TicketSystem.WinForms.dll" target="lib\net6.0-windows7.0\TicketSystem.WinForms.dll" />
+  </files>
+</package>

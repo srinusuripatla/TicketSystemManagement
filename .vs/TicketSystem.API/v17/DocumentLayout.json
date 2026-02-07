@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E332B441-8AC6-4A36-B5FD-AD6E9D07FAE3}|TicketSystem.WinForms\\TicketSystem.WinForms.csproj|c:\\users\\srinu\\desktop\\ticketsystem.api\\ticketsystem.winforms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E332B441-8AC6-4A36-B5FD-AD6E9D07FAE3}|TicketSystem.WinForms\\TicketSystem.WinForms.csproj|solutionrelative:ticketsystem.winforms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E332B441-8AC6-4A36-B5FD-AD6E9D07FAE3}|TicketSystem.WinForms\\TicketSystem.WinForms.csproj|C:\\Users\\srinu\\Desktop\\TicketSystem.API\\ticketsystem.winforms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E332B441-8AC6-4A36-B5FD-AD6E9D07FAE3}|TicketSystem.WinForms\\TicketSystem.WinForms.csproj|solutionrelative:ticketsystem.winforms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E332B441-8AC6-4A36-B5FD-AD6E9D07FAE3}|TicketSystem.WinForms\\TicketSystem.WinForms.csproj|c:\\users\\srinu\\desktop\\ticketsystem.api\\ticketsystem.winforms\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E332B441-8AC6-4A36-B5FD-AD6E9D07FAE3}|TicketSystem.WinForms\\TicketSystem.WinForms.csproj|solutionrelative:ticketsystem.winforms\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E332B441-8AC6-4A36-B5FD-AD6E9D07FAE3}|TicketSystem.WinForms\\TicketSystem.WinForms.csproj|C:\\Users\\srinu\\Desktop\\TicketSystem.API\\ticketsystem.winforms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E332B441-8AC6-4A36-B5FD-AD6E9D07FAE3}|TicketSystem.WinForms\\TicketSystem.WinForms.csproj|solutionrelative:ticketsystem.winforms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E332B441-8AC6-4A36-B5FD-AD6E9D07FAE3}|TicketSystem.WinForms\\TicketSystem.WinForms.csproj|c:\\users\\srinu\\desktop\\ticketsystem.api\\ticketsystem.winforms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E332B441-8AC6-4A36-B5FD-AD6E9D07FAE3}|TicketSystem.WinForms\\TicketSystem.WinForms.csproj|solutionrelative:ticketsystem.winforms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E332B441-8AC6-4A36-B5FD-AD6E9D07FAE3}|TicketSystem.WinForms\\TicketSystem.WinForms.csproj|c:\\users\\srinu\\desktop\\ticketsystem.api\\ticketsystem.winforms\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E332B441-8AC6-4A36-B5FD-AD6E9D07FAE3}|TicketSystem.WinForms\\TicketSystem.WinForms.csproj|solutionrelative:ticketsystem.winforms\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E332B441-8AC6-4A36-B5FD-AD6E9D07FAE3}|TicketSystem.WinForms\\TicketSystem.WinForms.csproj|c:\\users\\srinu\\desktop\\ticketsystem.api\\ticketsystem.winforms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E332B441-8AC6-4A36-B5FD-AD6E9D07FAE3}|TicketSystem.WinForms\\TicketSystem.WinForms.csproj|solutionrelative:ticketsystem.winforms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E332B441-8AC6-4A36-B5FD-AD6E9D07FAE3}|TicketSystem.WinForms\\TicketSystem.WinForms.csproj|c:\\users\\srinu\\desktop\\ticketsystem.api\\ticketsystem.winforms\\ticketsystem.winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E332B441-8AC6-4A36-B5FD-AD6E9D07FAE3}|TicketSystem.WinForms\\TicketSystem.WinForms.csproj|solutionrelative:ticketsystem.winforms\\ticketsystem.winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510ADA6-D895-46EC-A302-3072DE9D10A9}|TicketSystem.API\\TicketSystem.API.csproj|c:\\users\\srinu\\desktop\\ticketsystem.api\\ticketsystem.api\\controllers\\ticketescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510ADA6-D895-46EC-A302-3072DE9D10A9}|TicketSystem.API\\TicketSystem.API.csproj|solutionrelative:ticketsystem.api\\controllers\\ticketescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510ADA6-D895-46EC-A302-3072DE9D10A9}|TicketSystem.API\\TicketSystem.API.csproj|c:\\users\\srinu\\desktop\\ticketsystem.api\\ticketsystem.api\\models\\addcommentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510ADA6-D895-46EC-A302-3072DE9D10A9}|TicketSystem.API\\TicketSystem.API.csproj|solutionrelative:ticketsystem.api\\models\\addcommentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510ADA6-D895-46EC-A302-3072DE9D10A9}|TicketSystem.API\\TicketSystem.API.csproj|c:\\users\\srinu\\desktop\\ticketsystem.api\\ticketsystem.api\\models\\ticketcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510ADA6-D895-46EC-A302-3072DE9D10A9}|TicketSystem.API\\TicketSystem.API.csproj|solutionrelative:ticketsystem.api\\models\\ticketcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510ADA6-D895-46EC-A302-3072DE9D10A9}|TicketSystem.API\\TicketSystem.API.csproj|c:\\users\\srinu\\desktop\\ticketsystem.api\\ticketsystem.api\\models\\assignticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510ADA6-D895-46EC-A302-3072DE9D10A9}|TicketSystem.API\\TicketSystem.API.csproj|solutionrelative:ticketsystem.api\\models\\assignticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510ADA6-D895-46EC-A302-3072DE9D10A9}|TicketSystem.API\\TicketSystem.API.csproj|c:\\users\\srinu\\desktop\\ticketsystem.api\\ticketsystem.api\\models\\ticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510ADA6-D895-46EC-A302-3072DE9D10A9}|TicketSystem.API\\TicketSystem.API.csproj|solutionrelative:ticketsystem.api\\models\\ticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510ADA6-D895-46EC-A302-3072DE9D10A9}|TicketSystem.API\\TicketSystem.API.csproj|c:\\users\\srinu\\desktop\\ticketsystem.api\\ticketsystem.api\\models\\ticketstatushistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510ADA6-D895-46EC-A302-3072DE9D10A9}|TicketSystem.API\\TicketSystem.API.csproj|solutionrelative:ticketsystem.api\\models\\ticketstatushistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510ADA6-D895-46EC-A302-3072DE9D10A9}|TicketSystem.API\\TicketSystem.API.csproj|c:\\users\\srinu\\desktop\\ticketsystem.api\\ticketsystem.api\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510ADA6-D895-46EC-A302-3072DE9D10A9}|TicketSystem.API\\TicketSystem.API.csproj|solutionrelative:ticketsystem.api\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510ADA6-D895-46EC-A302-3072DE9D10A9}|TicketSystem.API\\TicketSystem.API.csproj|c:\\users\\srinu\\desktop\\ticketsystem.api\\ticketsystem.api\\models\\createticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510ADA6-D895-46EC-A302-3072DE9D10A9}|TicketSystem.API\\TicketSystem.API.csproj|solutionrelative:ticketsystem.api\\models\\createticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.WinForms\\UserForm.Designer.cs",
+              "RelativeDocumentMoniker": "TicketSystem.WinForms\\UserForm.Designer.cs",
+              "ToolTip": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.WinForms\\UserForm.Designer.cs",
+              "RelativeToolTip": "TicketSystem.WinForms\\UserForm.Designer.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAQwMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T19:31:03.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.WinForms\\UserForm.cs",
+              "RelativeDocumentMoniker": "TicketSystem.WinForms\\UserForm.cs",
+              "ToolTip": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.WinForms\\UserForm.cs [Design]",
+              "RelativeToolTip": "TicketSystem.WinForms\\UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T16:47:42.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.WinForms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "TicketSystem.WinForms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.WinForms\\LoginForm.cs",
+              "RelativeToolTip": "TicketSystem.WinForms\\LoginForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:30:15.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.WinForms\\UserForm.cs",
+              "RelativeDocumentMoniker": "TicketSystem.WinForms\\UserForm.cs",
+              "ToolTip": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.WinForms\\UserForm.cs",
+              "RelativeToolTip": "TicketSystem.WinForms\\UserForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T05:52:46.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.WinForms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "TicketSystem.WinForms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.WinForms\\AdminForm.cs [Design]",
+              "RelativeToolTip": "TicketSystem.WinForms\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:17:51.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.WinForms\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "TicketSystem.WinForms\\AdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.WinForms\\AdminForm.Designer.cs",
+              "RelativeToolTip": "TicketSystem.WinForms\\AdminForm.Designer.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAQwAwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:04:13.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.WinForms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "TicketSystem.WinForms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.WinForms\\AdminForm.cs",
+              "RelativeToolTip": "TicketSystem.WinForms\\AdminForm.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAPEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:16:10.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddCommentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.API\\Models\\AddCommentRequest.cs",
+              "RelativeDocumentMoniker": "TicketSystem.API\\Models\\AddCommentRequest.cs",
+              "ToolTip": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.API\\Models\\AddCommentRequest.cs",
+              "RelativeToolTip": "TicketSystem.API\\Models\\AddCommentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T05:49:28.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketSystem.WinForms.csproj",
+              "DocumentMoniker": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.WinForms\\TicketSystem.WinForms.csproj",
+              "RelativeDocumentMoniker": "TicketSystem.WinForms\\TicketSystem.WinForms.csproj",
+              "ToolTip": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.WinForms\\TicketSystem.WinForms.csproj",
+              "RelativeToolTip": "TicketSystem.WinForms\\TicketSystem.WinForms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-06T15:54:34.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketesController.cs",
+              "DocumentMoniker": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.API\\Controllers\\TicketesController.cs",
+              "RelativeDocumentMoniker": "TicketSystem.API\\Controllers\\TicketesController.cs",
+              "ToolTip": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.API\\Controllers\\TicketesController.cs",
+              "RelativeToolTip": "TicketSystem.API\\Controllers\\TicketesController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAmwH0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:16:59.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ticketstatushistory.cs",
+              "DocumentMoniker": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.API\\Models\\Ticketstatushistory.cs",
+              "RelativeDocumentMoniker": "TicketSystem.API\\Models\\Ticketstatushistory.cs",
+              "ToolTip": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.API\\Models\\Ticketstatushistory.cs",
+              "RelativeToolTip": "TicketSystem.API\\Models\\Ticketstatushistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T15:21:07.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ticketcomment.cs",
+              "DocumentMoniker": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.API\\Models\\Ticketcomment.cs",
+              "RelativeDocumentMoniker": "TicketSystem.API\\Models\\Ticketcomment.cs",
+              "ToolTip": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.API\\Models\\Ticketcomment.cs",
+              "RelativeToolTip": "TicketSystem.API\\Models\\Ticketcomment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T05:34:35.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssignTicketRequest.cs",
+              "DocumentMoniker": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.API\\Models\\AssignTicketRequest.cs",
+              "RelativeDocumentMoniker": "TicketSystem.API\\Models\\AssignTicketRequest.cs",
+              "ToolTip": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.API\\Models\\AssignTicketRequest.cs",
+              "RelativeToolTip": "TicketSystem.API\\Models\\AssignTicketRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:43:40.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TicketDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.API\\Models\\TicketDbContext.cs",
+              "RelativeDocumentMoniker": "TicketSystem.API\\Models\\TicketDbContext.cs",
+              "ToolTip": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.API\\Models\\TicketDbContext.cs",
+              "RelativeToolTip": "TicketSystem.API\\Models\\TicketDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T05:35:23.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.API\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "TicketSystem.API\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.API\\Models\\Ticket.cs",
+              "RelativeToolTip": "TicketSystem.API\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:57:21.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateTicket.cs",
+              "DocumentMoniker": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.API\\Models\\CreateTicket.cs",
+              "RelativeDocumentMoniker": "TicketSystem.API\\Models\\CreateTicket.cs",
+              "ToolTip": "C:\\Users\\srinu\\Desktop\\TicketSystem.API\\TicketSystem.API\\Models\\CreateTicket.cs",
+              "RelativeToolTip": "TicketSystem.API\\Models\\CreateTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T15:21:13.354Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
